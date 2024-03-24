@@ -1,0 +1,13 @@
+{
+  "name": "Miguel Escobar",
+  "bio": "Full Stack Developer | Student  | **GitHub** Star"
+}
+  "links": [
+    {
+      "group": "Business",
+      "name": "Social links",
+      "url": "https://www.linkedin.com/in/miguel-escobar-programador-web-front-end/",
+      "icon": "FaLink"
+    }
+  ]
+}
